@@ -1,2 +1,2 @@
 # writeups-25
-i will try to write as much writeups as i can (no promises tho lol)
+i will try to make as much writeups as i can
